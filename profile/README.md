@@ -38,3 +38,45 @@ Postaw na bezpiecznego operatora płatności, z którym:
 *	*Rozpoczniesz sprzedaż na każdej stronie* – dzięki prostej integracji i instalacji z większością języków i platform sprzedażowych.
 
 Po prostu sprawdź pliki w repozytorium. *W razie pytań i problemów pisz na kontakt@simpay.pl*.
+
+# SimPay.pl – a simple online payment system for your website
+
+Are you setting up an online store or other sales business? Provide your customers with a *fast and easy-to-use* SimPay payment system. Get support for:
+* premium SMS,
+* BLIK,
+* online transfers,
+* Paysafecard,
+* payment cards,
+* Direct Billing system.
+
+Every thriving business needs a trusted payment provider. Integrate your store with SimPay now and *increase the number of purchases on your website*!
+
+## Plugins for the most popular sales platforms.
+We want all online entrepreneurs to be able to use SimPay. That's why we have prepared a *set of plugins for the most popular platforms*:
+* WordPress,
+* WooCommerce,
+* PrestaShop.
+
+All you have to do is register on our site, download the relevant files and install the plugins on the platform of your choice. * *After just 5 minutes* you will be able to start selling effectively.
+
+## Simple API integration with most languages.
+Try out SimPay on your site with libraries in most languages, such as:
+* PHP,
+* Java,
+* TypeScript,
+* Python,
+* Kotlin,
+* Go.
+
+Are you building a website in another language or technology? Contact us and we will prepare the right solution for you!
+
+## Immediate profits
+Whether you're just starting an online shop or running a prosperous business, SimPay will help you spread your wings.
+
+Bet on a safe payment operator and:
+* Start earning the same day* – Bank transfer commissions are paid out in 24 hours every day.
+* Increase your income* – many customers abandon their purchase because of the complicated payment process. With SimPay this problem disappears, so you will noticeably increase the number of completed transactions.
+* You will start selling on any site* – thanks to simple integration and installation with most languages and sales platforms.
+
+Just check out the files in the repository. *For questions and problems, write to kontakt@simpay.pl*.
+
