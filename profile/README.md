@@ -33,11 +33,13 @@ Budujesz stronę w innym języku lub technologii? Skontaktuj się z nami, a przy
 Niezależnie od tego, czy dopiero rozpoczynasz biznes, czy prowadzisz prosperującą działalność, SimPay pomoże Ci rozwinąć skrzydła.
 
 Postaw na bezpiecznego operatora płatności, z którym:
-*	*Zaczniesz zarabiać tego samego dnia* – prowizje z przelewów wypłacamy w 24h.
-*	*Zwiększysz swoje dochody* – wielu klientów rezygnuje z zakupu przez skomplikowany proces płatności. Z SimPay ten problem znika, dzięki czemu zauważalnie zwiększysz liczbę zakończonych transakcji.
-*	*Rozpoczniesz sprzedaż na każdej stronie* – dzięki prostej integracji i instalacji z większością języków i platform sprzedażowych.
+*	Zaczniesz zarabiać tego samego dnia* – prowizje z przelewów wypłacamy w 24h.
+*	Zwiększysz swoje dochody* – wielu klientów rezygnuje z zakupu przez skomplikowany proces płatności. Z SimPay ten problem znika, dzięki czemu zauważalnie zwiększysz liczbę zakończonych transakcji.
+*	Rozpoczniesz sprzedaż na każdej stronie* – dzięki prostej integracji i instalacji z większością języków i platform sprzedażowych.
 
 Po prostu sprawdź pliki w repozytorium. *W razie pytań i problemów pisz na kontakt@simpay.pl*.
+
+---
 
 # SimPay.pl – a simple online payment system for your website
 
